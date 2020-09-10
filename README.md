@@ -1,5 +1,4 @@
-# CSC/DSP310 Programming for data Scienc111
-e
+# CSC/DSP310 Programming for data Science
 
 
 Course Manual For fall 2020
